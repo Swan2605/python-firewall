@@ -1,0 +1,6 @@
+{
+  "block_ip": ["192.168.1.100"],
+  "block_port": [80],
+  "whitelist_ip": ["8.8.8.8"],
+  "block_domains": ["facebook.com"]
+}
